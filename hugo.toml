@@ -21,14 +21,9 @@ weight = 30
 Title = "Lanyun's Forest"
 Content = "Somewhere record my daily fucking life"
 
-[[params.profileMode.buttons]]
-name = "Archive"
-url = "/archive"
-
-[[params.profileMode.buttons]]
-name = "Github"
+[[params.socialIcons]]
+name = "github"
 url = "https://github.com/"
-
 [[params.socialIcons]]
 name = "twitter"
 url = "https://x.com/Dosh52783629"
