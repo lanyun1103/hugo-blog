@@ -17,10 +17,9 @@ name = 'Services'
 pageRef = '/services'
 weight = 30
 
-[params.profileMode]
-enabled = true
-title = "Lanyun's Forest"
-subtitle = "Somewhere record my daily fucking life"
+[params.homeInfoParams]
+Title = "Lanyun's Forest"
+Content = "Somewhere record my daily fucking life"
 
 [[params.profileMode.buttons]]
 name = "Archive"
