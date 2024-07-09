@@ -17,10 +17,11 @@ name = 'Services'
 pageRef = '/services'
 weight = 30
 
-[[params.socialIcons]]
+[[socialIcons]]
 name = "kofi"
 url = "https://kofi.com"
 
-[[params.socialIcons]]
+[[socialIcons]]
 name = "x"
 url = "https://x.com"
+
