@@ -44,3 +44,4 @@ ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
+ShowToc = true
