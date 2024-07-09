@@ -17,11 +17,27 @@ name = 'Services'
 pageRef = '/services'
 weight = 30
 
-[[socialIcons]]
-name = "kofi"
-url = "https://kofi.com"
+[params.profileMode]
+enabled = true
+title = "<Title>"
+subtitle = "This is subtitle"
+imageUrl = "<image link>"
+imageTitle = "<title of image as alt>"
+imageWidth = 120
+imageHeight = 120
 
-[[socialIcons]]
-name = "x"
-url = "https://x.com"
+[[params.profileMode.buttons]]
+name = "Archive"
+url = "/archive"
 
+[[params.profileMode.buttons]]
+name = "Github"
+url = "https://github.com/"
+
+[[params.socialIcons]]
+name = "<platform>"
+url = "<link>"
+
+[[params.socialIcons]]
+name = "<platform 2>"
+url = "<link2>"
