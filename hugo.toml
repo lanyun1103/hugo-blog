@@ -9,8 +9,8 @@ name = 'Home'
 pageRef = '/'
 weight = 10
 [[menus.main]]
-name = 'Products'
-pageRef = '/products'
+name = 'Search'
+pageRef = '/search'
 weight = 20
 [[menus.main]]
 name = 'Services'
@@ -29,7 +29,7 @@ name = "x"
 url = "https://x.com/Dosh52783629"
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = ["HTML", "RSS", "JSON"]
 
 [params.fuseOpts]
 isCaseSensitive = false
@@ -38,4 +38,9 @@ location = 0
 distance = 1_000
 threshold = 0.4
 minMatchCharLength = 0
-keys = [ "title", "permalink", "summary", "content" ]
+keys = ["title", "permalink", "summary", "content"]
+[Params]
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
