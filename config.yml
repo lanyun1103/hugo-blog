@@ -1,0 +1,14 @@
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: Github
+      name: Github
+      url: https://github.com/lanyun1103
+      weight: 30
