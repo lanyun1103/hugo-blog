@@ -2,3 +2,17 @@ baseURL = 'https://hugo-blog-dca.pages.dev/'
 languageCode = 'en-us'
 title = 'Lanyun Forest'
 theme = 'PaperMod'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Products'
+    pageRef = '/products'
+    weight = 20
+  [[menus.main]]
+    name = 'Services'
+    pageRef = '/services'
+    weight = 30
