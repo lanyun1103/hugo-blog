@@ -19,12 +19,8 @@ weight = 30
 
 [params.profileMode]
 enabled = true
-title = "<Title>"
-subtitle = "This is subtitle"
-imageUrl = "<image link>"
-imageTitle = "<title of image as alt>"
-imageWidth = 120
-imageHeight = 120
+title = "Lanyun's Forest"
+subtitle = "Somewhere record my daily fucking life"
 
 [[params.profileMode.buttons]]
 name = "Archive"
@@ -35,9 +31,5 @@ name = "Github"
 url = "https://github.com/"
 
 [[params.socialIcons]]
-name = "<platform>"
-url = "<link>"
-
-[[params.socialIcons]]
-name = "<platform 2>"
-url = "<link2>"
+name = "twitter"
+url = "https://x.com/Dosh52783629"
