@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://blog.jotaro.cn/</loc>
+    <lastmod>2024-10-15T13:13:24+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://blog.jotaro.cn/posts/</loc>
+    <lastmod>2024-10-15T13:13:24+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://blog.jotaro.cn/posts/%E6%B8%85%E7%90%86linux/</loc>
+    <lastmod>2024-10-15T13:13:24+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.jotaro.cn/posts/%E8%90%A5%E9%94%80%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E8%8C%83%E5%BC%8F/</loc>
+    <lastmod>2024-07-09T23:13:24+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.jotaro.cn/categories/</loc>
+  </url><url>
+    <loc>https://blog.jotaro.cn/search/</loc>
+  </url><url>
+    <loc>https://blog.jotaro.cn/tags/</loc>
   </url>
 </urlset>

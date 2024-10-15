@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <title>Lanyun&#39;s Forest</title>
+    <link>https://blog.jotaro.cn/</link>
+    <description>Recent content on Lanyun&#39;s Forest</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 15 Oct 2024 13:13:24 +0800</lastBuildDate>
+    <atom:link href="https://blog.jotaro.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>清理 linux 的工具</title>
+      <link>https://blog.jotaro.cn/posts/%E6%B8%85%E7%90%86linux/</link>
+      <pubDate>Tue, 15 Oct 2024 13:13:24 +0800</pubDate>
+      <guid>https://blog.jotaro.cn/posts/%E6%B8%85%E7%90%86linux/</guid>
+      <description>&lt;h2 id=&#34;1-清理-linux-的工具&#34;&gt;1 清理 linux 的工具&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt-get install ncdu
+ncdu /
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;2-清理-docker&#34;&gt;2 清理 Docker&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker system prune
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>营销的第三种范式</title>
+      <link>https://blog.jotaro.cn/posts/%E8%90%A5%E9%94%80%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E8%8C%83%E5%BC%8F/</link>
+      <pubDate>Tue, 09 Jul 2024 23:13:24 +0800</pubDate>
+      <guid>https://blog.jotaro.cn/posts/%E8%90%A5%E9%94%80%E7%9A%84%E7%AC%AC%E4%B8%89%E7%A7%8D%E8%8C%83%E5%BC%8F/</guid>
+      <description>&lt;h1 id=&#34;1-营销的第三种范式&#34;&gt;1 营销的第三种范式&lt;/h1&gt;
+&lt;h2 id=&#34;1-消费者更加真实主动&#34;&gt;1 消费者更加真实主动&lt;/h2&gt;
+&lt;p&gt;体现在用户对产品质量，预约自我上有更高的需求和倾向&lt;/p&gt;
+&lt;h3 id=&#34;11-相互信任&#34;&gt;1.1 相互信任&lt;/h3&gt;
+&lt;p&gt;用户倾向信任&lt;strong&gt;能代表自己的人&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;12-需求多样化&#34;&gt;1.2 需求多样化&lt;/h3&gt;
+&lt;p&gt;潜在需求在用户之间的沟通中被激发&lt;/p&gt;
+&lt;p&gt;例如多巴胺穿搭等&lt;/p&gt;
+&lt;h2 id=&#34;2-以人为本进入h2h时代&#34;&gt;2 以人为本，进入H2H时代&lt;/h2&gt;
+&lt;p&gt;营销学之父，科特乐在《H2H Marking》中提到更多人通过互联网分享观点，表达情感，营销需要回到人、对消费者的需求的把控&lt;/p&gt;
+&lt;h3 id=&#34;21-以人为本的设计思维&#34;&gt;2.1 以人为本的设计思维&lt;/h3&gt;
+&lt;h3 id=&#34;22-深度洞察用户内心需求&#34;&gt;2.2 深度洞察用户内心需求&lt;/h3&gt;
+&lt;h3 id=&#34;23-服务主导的价值共创&#34;&gt;2.3 服务主导的价值共创&lt;/h3&gt;
+&lt;p&gt;找到潜在痛点&lt;/p&gt;
+&lt;p&gt;结合用户反馈迭代优化&lt;/p&gt;
+&lt;h3 id=&#34;24-数字化&#34;&gt;2.4 数字化&lt;/h3&gt;
+&lt;p&gt;找到用户喜欢的沟通方式&lt;/p&gt;
+&lt;p&gt;建立用户与用户之间的沟通机制&lt;/p&gt;
+&lt;h2 id=&#34;3-激发用户的主动性&#34;&gt;3 激发用户的主动性&lt;/h2&gt;
+&lt;p&gt;了解，吸引，问询，行动，拥护&lt;/p&gt;
+&lt;p&gt;消费前的主动性：用专业的，真实的，可信的，激起用户的好奇&lt;/p&gt;
+&lt;p&gt;消费后的推荐&lt;/p&gt;
+&lt;h3 id=&#34;31-问询---拥护促进机制&#34;&gt;3.1 问询 - 拥护促进机制&lt;/h3&gt;
+&lt;p&gt;通过UGC内容，并通过精细化的洞察和运营实现雪球效应&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

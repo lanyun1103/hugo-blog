@@ -1,21 +1,17 @@
-baseURL = 'https://hug.noaino.life/'
-languageCode = 'en-us'
-title = 'Lanyun Forest'
+baseURL = 'https://blog.jotaro.cn/'
+languageCode = 'zh-cn'
+title = "Lanyun's Forest"
 theme = 'PaperMod'
 
 [menus]
 [[menus.main]]
-name = 'Home'
+name = '首页'
 pageRef = '/'
 weight = 10
 [[menus.main]]
-name = 'Search'
+name = '搜搜这里有什么'
 pageRef = '/search'
 weight = 20
-[[menus.main]]
-name = 'Services'
-pageRef = '/services'
-weight = 30
 
 [params.homeInfoParams]
 Title = "Lanyun's Forest"
